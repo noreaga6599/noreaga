@@ -1,0 +1,32 @@
+body{
+    background: #cbd5e0;
+    color: #d1cd91;
+    margin: 0;
+}
+#navbar{
+    background: #2d3748;
+    color: white;
+    padding:15px;
+    display:flex;
+    justify-content: space-between;
+align-items: center
+}
+.manu{
+    display: flex;
+}
+li{
+    margin-right: 10px;
+    list-style: none
+}
+.banner {
+    background: #ffffff;    
+}
+#ourservices{
+    background: #2d3748;
+}
+#content{
+    background: #ffffff;
+}
+#footer{
+    background: #2d3748;
+}
